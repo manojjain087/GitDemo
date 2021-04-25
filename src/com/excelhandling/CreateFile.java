@@ -24,6 +24,10 @@ public class CreateFile {
 		}
 
 		System.out.println("File Created");
+		System.out.println("File Created2");
+		System.out.println("File Created3");
+		System.out.println("File Created4");
+		System.out.println("File Created4");
 		
 
 	}

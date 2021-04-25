@@ -17,6 +17,7 @@ public class ByClassName {
 		System.out.println(driver.getTitle());
 		driver.findElement(By.className("gb_P")).click();
 		System.out.println(driver.getTitle());
+		
 
 	}
 
