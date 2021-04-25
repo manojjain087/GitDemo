@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Parameters]">
+  <parameter name="Testing" value="Software"/>
+  <test name="Sedning Parameters(failed)">
+    <classes>
+      <class name="com.testng.GoogleParameter">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.testng.GoogleParameter -->
+    </classes>
+  </test> <!-- Sedning Parameters(failed) -->
+</suite> <!-- Failed suite [Parameters] -->

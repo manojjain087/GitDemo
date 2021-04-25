@@ -1,0 +1,11 @@
+<suite name="suite3">
+<test name="test3">
+<classes>
+<class name="com.testng.GoogleLinks"/>
+<methods>
+   <include name="Gmail"/>
+   <include name="Link"/>
+</methods>
+</classes>
+</test>
+</suite>

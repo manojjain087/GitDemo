@@ -1,0 +1,7 @@
+<suite name="Package Handling">
+<test name="package">
+<packages>
+ <package name="com.testng.*"/>
+</packages>
+</test>
+</suite>

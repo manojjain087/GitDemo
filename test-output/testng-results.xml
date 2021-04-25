@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18130" started-at="2016-06-11T08:56:20Z" finished-at="2016-06-11T08:56:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18130" started-at="2016-06-11T08:56:20Z" finished-at="2016-06-11T08:56:38Z">
+      <class name="com.testng.KeyWordDataDriven">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="beforeTest" is-config="true" duration-ms="5612" started-at="2016-06-11T14:26:20Z" finished-at="2016-06-11T14:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="LiveLogin(java.lang.String, java.lang.String)[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="LiveLogin" duration-ms="7529" started-at="2016-06-11T14:26:25Z" data-provider="getData" finished-at="2016-06-11T14:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LiveLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="afterMethod" is-config="true" duration-ms="79" started-at="2016-06-11T14:26:33Z" finished-at="2016-06-11T14:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="LiveLogin(java.lang.String, java.lang.String)[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="LiveLogin" duration-ms="2300" started-at="2016-06-11T14:26:33Z" data-provider="getData" finished-at="2016-06-11T14:26:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Seed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Seed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LiveLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="afterMethod" is-config="true" duration-ms="110" started-at="2016-06-11T14:26:35Z" finished-at="2016-06-11T14:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="LiveLogin(java.lang.String, java.lang.String)[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="LiveLogin" duration-ms="2328" started-at="2016-06-11T14:26:35Z" data-provider="getData" finished-at="2016-06-11T14:26:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LiveLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="afterMethod" is-config="true" duration-ms="109" started-at="2016-06-11T14:26:38Z" finished-at="2016-06-11T14:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testng.KeyWordDataDriven@165f5a4]" name="afterTest" is-config="true" duration-ms="47" started-at="2016-06-11T14:26:38Z" finished-at="2016-06-11T14:26:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.testng.KeyWordDataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

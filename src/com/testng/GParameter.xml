@@ -1,0 +1,9 @@
+<suite name="Parameters">
+<parameter name="id" value="Testing"/> 
+   <test name="Sedning Parameters" verbose='1'>
+   	<classes>
+         <class name="com.testng.GoogleParameter" />
+      </classes>
+      
+   </test>
+</suite>

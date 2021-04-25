@@ -1,0 +1,8 @@
+<suite name="suite2">
+<test name="test2">
+<classes>
+<class name="com.testng.FirstTestNG"/>
+<class name="com.testng.Priority"/>
+</classes>
+</test>
+</suite>

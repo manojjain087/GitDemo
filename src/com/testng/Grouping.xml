@@ -1,0 +1,12 @@
+<suite name="Groups">
+<test name="linkGroups">
+	<groups>
+		<run>
+			<exclude name="Bottom"/>
+		</run>
+	</groups>	
+<classes>
+<class name="com.testng.GoogleLinksGroup"/>
+</classes>
+</test>
+</suite>

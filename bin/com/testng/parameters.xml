@@ -1,0 +1,10 @@
+<suite name="Parameters">
+<parameter name="un" value="SEED"/> 
+<parameter name="pwd" value="SEED"/> 
+   <test name="Sedning Parameters" verbose='1'>
+   	<classes>
+         <class name="com.testng.LiveParameter" />
+      </classes>
+      
+   </test>
+</suite>
